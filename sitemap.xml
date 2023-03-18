@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">         
+        <url>
+            <loc>https://космическийцентр.рф/i.htm</loc>
+            <changefreq>yearly</changefreq>
+            <priority>1</priority>
+        </url>   
+        <url>
+            <loc>https://космическийцентр.рф/1.htm</loc>
+            <changefreq>never</changefreq>
+            <priority>0.9</priority>
+        </url>   
+        <url>
+            <loc>https://космическийцентр.рф/2.htm</loc>
+            <changefreq>never</changefreq>
+            <priority>0.9</priority>
+        </url>
+        <url>
+            <loc>https://космическийцентр.рф/3.htm</loc>
+            <changefreq>never</changefreq>
+            <priority>0.9</priority>
+        </url>
+        <url>
+            <loc>https://космическийцентр.рф/4.htm</loc>
+            <changefreq>never</changefreq>
+            <priority>0.9</priority>
+        </url>
+        <url>
+            <loc>https://космическийцентр.рф/5.htm</loc>
+            <changefreq>never</changefreq>
+            <priority>0.9</priority>
+        </url>        
+    </urlset>
